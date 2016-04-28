@@ -1,0 +1,28 @@
+name: MaggieMar
+favicon: null
+layout_spectrum: 0.25120845809578896
+typography_spectrum: 0.24961693142540753
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#71A7FE'
+    - '#399AE7'
+    - '#3B407C'
+    - '#547AB1'
+    - '#CEAFC0'
+  brandStrength: 0.4160983548499644
+  lightness: 0.20596950151957572
+  saturation: 0.6298005958087742
+  rhythmicContrast: 0.19307867879979312
+purpose: []

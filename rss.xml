@@ -2,16 +2,23 @@
     <channel>
         <title><![CDATA[MaggieMar]]></title>
         <description><![CDATA[MaggieMar]]></description>
-        <link>http://github.com/dylang/node-rss</link>
+        <link>https://thegrid.ai/maggiemar/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Thu, 28 Apr 2016 00:28:32 GMT</lastBuildDate>
-        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <lastBuildDate>Thu, 28 Apr 2016 00:28:38 GMT</lastBuildDate>
+        <atom:link href="https://thegrid.ai/maggiemar/rss.xml" rel="self" type="application/rss+xml"/>
         <item>
             <title><![CDATA[The Real Mojito Recipe]]></title>
             <description><![CDATA[<article><h1>The Real Mojito Recipe</h1><p>Considered Cuba's national drink, this lime and rum cocktail is a favorite with pirates, swashbucklers, and colorful characters in the Caribbean and beyond.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d793df0ec04068ea4c7e090b9d395ca67cfce914.jpg"></article>]]></description>
             <link>http://allrecipes.com/recipe/147363/the-real-mojito/</link>
             <guid isPermaLink="false">a7e80afe-bdcc-42ea-8e66-3cec971b3d91</guid>
             <pubDate>Thu, 28 Apr 2016 00:28:26 GMT</pubDate>
+        </item>
+        <item>
+            <title><![CDATA[Pineapple Strawberry Mojito - Mom On Timeout]]></title>
+            <description><![CDATA[<article><h1>Pineapple Strawberry Mojito - Mom On Timeout</h1><p>Perfectly cool, sweet, and SO refreshing, this fruit-infused Pineapple Strawberry Mojito cocktail has it all! I can hardly believe that Cinco de Mayo is coming up in less than TWO weeks! Cinco de Mayo is my unofficial kick-off to summer. Here in Sacramento, it's already warm if not HOT.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/42c67af0fa57531f1184137d1cc97588e1568a52.jpg"></article>]]></description>
+            <link>http://www.momontimeout.com/2015/04/pineapple-strawberry-mojito-recipe/#comment-87979</link>
+            <guid isPermaLink="false">5d12a66e-f0dd-4cde-a81e-f740915a0c2b</guid>
+            <pubDate>Thu, 28 Apr 2016 00:28:36 GMT</pubDate>
         </item>
     </channel>
 </rss>

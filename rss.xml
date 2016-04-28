@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?><rss xmlns:dc="http://purl.org/dc/elements/1.1/" xmlns:content="http://purl.org/rss/1.0/modules/content/" xmlns:atom="http://www.w3.org/2005/Atom" version="2.0">
+    <channel>
+        <title><![CDATA[MaggieMar]]></title>
+        <description><![CDATA[MaggieMar]]></description>
+        <link>http://github.com/dylang/node-rss</link>
+        <generator>The Grid</generator>
+        <lastBuildDate>Thu, 28 Apr 2016 00:28:32 GMT</lastBuildDate>
+        <atom:link href="undefinedrss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[The Real Mojito Recipe]]></title>
+            <description><![CDATA[<article><h1>The Real Mojito Recipe</h1><p>Considered Cuba's national drink, this lime and rum cocktail is a favorite with pirates, swashbucklers, and colorful characters in the Caribbean and beyond.</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/d793df0ec04068ea4c7e090b9d395ca67cfce914.jpg"></article>]]></description>
+            <link>http://allrecipes.com/recipe/147363/the-real-mojito/</link>
+            <guid isPermaLink="false">a7e80afe-bdcc-42ea-8e66-3cec971b3d91</guid>
+            <pubDate>Thu, 28 Apr 2016 00:28:26 GMT</pubDate>
+        </item>
+    </channel>
+</rss>
